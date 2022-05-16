@@ -1,0 +1,5 @@
+Decomposição - Como decompor um problema para facilita o seu resolvimento
+Reconhecimento de Padrões - Reconhecer os padrões do pilares da computação
+Abstração - Tudo que envolver o termo " Abstração"
+Algoritmos ...
+
